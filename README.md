@@ -110,6 +110,7 @@ Java
 | [0283-move-zeroes](https://github.com/patilcodesx/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/patilcodesx/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/patilcodesx/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/patilcodesx/Leetcode/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/patilcodesx/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/patilcodesx/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -220,6 +221,7 @@ Java
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/patilcodesx/Leetcode/tree/master/0048-rotate-image) |
+| [1301-number-of-paths-with-max-score](https://github.com/patilcodesx/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/patilcodesx/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/patilcodesx/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/patilcodesx/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -244,6 +246,7 @@ Java
 | [0022-generate-parentheses](https://github.com/patilcodesx/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/patilcodesx/Leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/patilcodesx/Leetcode/tree/master/0509-fibonacci-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/patilcodesx/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/patilcodesx/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/patilcodesx/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Prefix Sum

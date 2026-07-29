@@ -19,6 +19,7 @@ Java
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/patilcodesx/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/patilcodesx/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3488-closest-equal-element-queries](https://github.com/patilcodesx/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/patilcodesx/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/patilcodesx/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/patilcodesx/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
@@ -47,6 +48,7 @@ Java
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/patilcodesx/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/patilcodesx/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/patilcodesx/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/patilcodesx/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Java
 | [1622-fancy-sequence](https://github.com/patilcodesx/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/patilcodesx/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/patilcodesx/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -204,6 +207,7 @@ Java
 | [0347-top-k-frequent-elements](https://github.com/patilcodesx/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/patilcodesx/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/patilcodesx/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/patilcodesx/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -321,4 +325,8 @@ Java
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/patilcodesx/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/patilcodesx/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->

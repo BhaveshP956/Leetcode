@@ -117,6 +117,7 @@ Java
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/patilcodesx/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/patilcodesx/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/patilcodesx/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1563-stone-game-v](https://github.com/patilcodesx/Leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/patilcodesx/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/patilcodesx/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/patilcodesx/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -149,6 +150,7 @@ Java
 | [0189-rotate-array](https://github.com/patilcodesx/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/patilcodesx/Leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/patilcodesx/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1563-stone-game-v](https://github.com/patilcodesx/Leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/patilcodesx/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/patilcodesx/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -251,6 +253,7 @@ Java
 | [0053-maximum-subarray](https://github.com/patilcodesx/Leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/patilcodesx/Leetcode/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/patilcodesx/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1563-stone-game-v](https://github.com/patilcodesx/Leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/patilcodesx/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/patilcodesx/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Prefix Sum
@@ -329,4 +332,8 @@ Java
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/patilcodesx/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/patilcodesx/Leetcode/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
